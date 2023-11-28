@@ -49,6 +49,8 @@ MODEL_CHANNELS = {
     'TDS 3054B': 4,
     'TDS 3054C': 4,
     'TDS7154': 4,
+    'MSO 2002B': 2,
+    'MSO 2004B': 4,
     'MSO2012': 2,
     'DPO2012': 2,
     'MSO2014': 4,
